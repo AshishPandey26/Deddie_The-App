@@ -7,3 +7,8 @@
 
 
  -Deddie
+
+
+login details are:
+userid : test@test.com
+password : password
