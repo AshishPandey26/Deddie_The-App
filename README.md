@@ -1,82 +1,112 @@
-# Deddie – The Ultimate Task & Deadline Management App
-
-
-
-
-📝 About
-Deddie is not just another to-do list app – it’s built with the vision to become the Best Deadline Management App Ever. With future updates, you’ll never miss a deadline again – just add your tasks, set deadlines, and let Deddie handle the rest.
-
-🚀 Features
-✅ Simple To-Do Management – Add, edit, and track tasks.
-✅ Clean & Minimal UI – Focus only on what matters.
-✅ Deadline-Oriented Vision – Upcoming smart reminders & notifications.
-✅ Cross-Platform Ready – Android APK available, iOS support coming soon.
-
-📸 Screenshots
-Task List View	Task Details View	Add/Edit Task View
+<h1 align="center">📌 Deddie – The Ultimate Task & Deadline Management App</h1>
 
 <p align="center">
-  <img src="[screenshots/screenshot1.png](https://github.com/user-attachments/assets/45b08933-14d5-40ef-a679-63181d6c614a)" alt="Task List View" width="250"/>
-  <img src="screenshots/screenshot2.png" alt="Task Details View" width="250"/>
-  <img src="screenshots/screenshot3.png" alt="Add/Edit Task View" width="250"/>
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-![Screenshot_20250715_204450](https://github.com/user-attachments/assets/45b08933-14d5-40ef-a679-63181d6c614a)
-![Screenshot_20250715_204510](https://github.com/user-attachments/assets/55f30ede-723d-4684-ab34-4f4f8f3bce4d)
-![Screenshot_20250715_204618](https://github.com/user-attachments/assets/1b2991a2-2cb1-47c5-9d98-52fc047aff11)
-![Screenshot_20250715_204622](https://github.com/user-attachments/assets/2fe8873e-7f93-4f20-87b8-b96199182e05)
-![Screenshot_20250715_204628](https://github.com/user-attachments/assets/fbe96d4d-9324-4810-9230-eade1436bbd6)
-![Screenshot_20250715_204636](https://github.com/user-attachments/assets/680770d6-0869-4741-8053-c46d71557366)
 
-📥 Download & Installation
-Download the APK: ⬇ Click Here
+---
 
-Install on Android:
+<h2>📝 About</h2>
 
-Allow installation from unknown sources in your device settings.
+<p>
+<b>Deddie</b> is not just another to-do list app – it’s built with the vision to become the 
+<b><i>Best Deadline Management App Ever</i></b>. With upcoming updates, <b>you’ll never miss a deadline again</b> – 
+just add your tasks, set deadlines, and let Deddie handle the rest.
+</p>
 
-Open the downloaded APK and install.
+---
 
-🔑 Test Login Details
-Use these credentials to explore the app:
+<h2>🚀 Features</h2>
 
-User ID  : test@test.com  
-Password : password  
-🛠 Tech Stack
-Frontend: Flutter
+<ul>
+  <li>✅ <b>Simple To-Do Management</b> – Add, edit, and track tasks.</li>
+  <li>✅ <b>Clean & Minimal UI</b> – Focus only on what matters.</li>
+  <li>✅ <b>Deadline-Oriented Vision</b> – Upcoming smart reminders & notifications.</li>
+  <li>✅ <b>Cross-Platform Ready</b> – Android APK available, iOS support coming soon.</li>
+</ul>
 
-Backend (Planned): Coming soon
+---
 
-Platform: Android
+<h2>📸 Screenshots</h2>
 
-📌 Roadmap
-✅ Basic To-Do functionality
+<p align="center">
+  <img src="screenshots/screenshot1.png" alt="Task List View" width="220" style="border-radius:12px;"/>
+  <img src="screenshots/screenshot2.png" alt="Task Details View" width="220" style="border-radius:12px;"/>
+  <img src="screenshots/screenshot3.png" alt="Add/Edit Task View" width="220" style="border-radius:12px;"/>
+</p>
 
-✅ APK release
+---
 
-🔜 Deadline management with reminders & notifications
+<h2>📥 Download & Installation</h2>
 
-🔜 Cloud sync & cross-device support
+<ol>
+  <li><b>Download the APK:</b> <a href="your_github_apk_link">⬇ Click Here</a></li>
+  <li><b>Install on Android:</b>
+    <ul>
+      <li>Allow installation from unknown sources in your device settings.</li>
+      <li>Open the downloaded APK and install.</li>
+    </ul>
+  </li>
+</ol>
 
-🔜 AI-based task prioritization
+---
 
-🤝 Contributing
-Want to help improve Deddie?
+<h2>🔑 Test Login Details</h2>
 
-Fork the repo
+<pre>
+User ID  : test@test.com
+Password : password
+</pre>
 
-Create a new branch (git checkout -b feature-name)
+---
 
-Commit changes (git commit -m "Add some feature")
+<h2>🛠 Tech Stack</h2>
 
-Push (git push origin feature-name)
+<ul>
+  <li><b>Frontend:</b> Flutter</li>
+  <li><b>Backend (Planned):</b> Coming soon</li>
+  <li><b>Platform:</b> Android</li>
+</ul>
 
-Open a Pull Request
+---
 
-📜 License
-This project is licensed under the MIT License.
+<h2>📌 Roadmap</h2>
 
-⭐ Support
-If you find this project useful, star the repo to show your support and stay updated!
+<ul>
+  <li>✅ Basic To-Do functionality</li>
+  <li>✅ APK release</li>
+  <li>🔜 Deadline management with reminders & notifications</li>
+  <li>🔜 Cloud sync & cross-device support</li>
+  <li>🔜 AI-based task prioritization</li>
+</ul>
 
-🔗 Quick Links
-📥 Download APK | 📸 View Screenshots
+---
+
+<h2>🤝 Contributing</h2>
+
+<p>
+Want to help improve Deddie? Follow these steps:
+</p>
+
+<pre>
+1. Fork the repo
+2. Create a new branch (git checkout -b feature-name)
+3. Commit changes (git commit -m "Add some feature")
+4. Push (git push origin feature-name)
+5. Open a Pull Request
+</pre>
+
+---
+
+<h2>📜 License</h2>
+
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+---
+
+<h2>⭐ Support</h2>
+
+<p>If you find this project useful, <b>star the repo</b> to show your support and stay updated!</p>
