@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/platform-Android-green?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/Made%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
@@ -27,17 +27,6 @@ just add your tasks, set deadlines, and let Deddie handle the rest.
   <li>✅ <b>Deadline-Oriented Vision</b> – Upcoming smart reminders & notifications.</li>
   <li>✅ <b>Cross-Platform Ready</b> – Android APK available, iOS support coming soon.</li>
 </ul>
-
----
-
-<h2>📸 Screenshots</h![Screenshot_20250715_204450](https://github.com/user-attachments/assets/1831d19b-3960-4ec2-a6f4-b533808ac353)
-2>
-
-<p align="center">
-  <img src="[Screenshot_20250715_204450](https://github.com/user-attachments/assets/1831d19b-3960-4ec2-a6f4-b533808ac353" alt="Task List View" width="220" style="border-radius:12px;"/>
-  <img src="screenshots/screenshot2.png" alt="Task Details View" width="220" style="border-radius:12px;"/>
-  <img src="screenshots/screenshot3.png" alt="Add/Edit Task View" width="220" style="border-radius:12px;"/>
-</p>
 
 ---
 
@@ -73,6 +62,14 @@ Password : password
 </ul>
 
 ---
+
+📥 Screenshots </h2>
+![Scree![Screenshot_20250715_204618](https://github.com/user-attachments/assets/6486219e-a71f-43d8-a131-0c868e7265ce)
+nshot_20250715_204510](https://github.com/user-attachments/assets/3f5b974c-0751-4864-98fc-96c7dab725f5)
+![Screenshot_20250715_204622](https://github.com/user-attachments/assets/5d272afa-f512-40d3-9cb5-cba75fd00528)
+![Screenshot_20250715_204628](https://github.com/user-attachments/assets/ca0c320d-c0e3-48ad-b387-6a0651582dc1)
+![Screenshot_20250715_204636](https://github.com/user-attachments/assets/41a5b445-8dbd-4ae3-b28f-7e18afdec8c8)
+
 
 <h2>📌 Roadmap</h2>
 
