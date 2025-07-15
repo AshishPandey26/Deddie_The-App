@@ -15,6 +15,11 @@ Deddie is not just another to-do list app – it’s built with the vision to be
 📸 Screenshots
 Task List View	Task Details View	Add/Edit Task View
 
+<p align="center">
+  <img src="[screenshots/screenshot1.png](https://github.com/user-attachments/assets/45b08933-14d5-40ef-a679-63181d6c614a)" alt="Task List View" width="250"/>
+  <img src="screenshots/screenshot2.png" alt="Task Details View" width="250"/>
+  <img src="screenshots/screenshot3.png" alt="Add/Edit Task View" width="250"/>
+</p>
 ![Screenshot_20250715_204450](https://github.com/user-attachments/assets/45b08933-14d5-40ef-a679-63181d6c614a)
 ![Screenshot_20250715_204510](https://github.com/user-attachments/assets/55f30ede-723d-4684-ab34-4f4f8f3bce4d)
 ![Screenshot_20250715_204618](https://github.com/user-attachments/assets/1b2991a2-2cb1-47c5-9d98-52fc047aff11)
