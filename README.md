@@ -43,7 +43,7 @@ just add your tasks, set deadlines, and let Deddie handle the rest.
 <h2>📥 Download & Installation</h2>
 
 <ol>
-  <li><b>Download the APK:</b> <a href="your_github_apk_link">⬇ Click Here</a></li>
+  <li><b>Download the APK:</b> <a href="https://github.com/AshishPandey26/Deddie_The-App/releases/tag/v0.1.0">⬇ Click Here</a></li>
   <li><b>Install on Android:</b>
     <ul>
       <li>Allow installation from unknown sources in your device settings.</li>
