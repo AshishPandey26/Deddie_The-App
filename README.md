@@ -30,10 +30,11 @@ just add your tasks, set deadlines, and let Deddie handle the rest.
 
 ---
 
-<h2>📸 Screenshots</h2>
+<h2>📸 Screenshots</h![Screenshot_20250715_204450](https://github.com/user-attachments/assets/1831d19b-3960-4ec2-a6f4-b533808ac353)
+2>
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="Task List View" width="220" style="border-radius:12px;"/>
+  <img src="[Screenshot_20250715_204450](https://github.com/user-attachments/assets/1831d19b-3960-4ec2-a6f4-b533808ac353" alt="Task List View" width="220" style="border-radius:12px;"/>
   <img src="screenshots/screenshot2.png" alt="Task Details View" width="220" style="border-radius:12px;"/>
   <img src="screenshots/screenshot3.png" alt="Add/Edit Task View" width="220" style="border-radius:12px;"/>
 </p>
@@ -98,12 +99,6 @@ Want to help improve Deddie? Follow these steps:
 4. Push (git push origin feature-name)
 5. Open a Pull Request
 </pre>
-
----
-
-<h2>📜 License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 ---
 
